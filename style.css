@@ -187,6 +187,7 @@ a {
     width: calc(100% - 60px);
     min-width: 320px;
     margin: 0 auto;
+    text-align: center;
 }
 
 .foot {
