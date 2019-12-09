@@ -181,6 +181,14 @@ a {
     transform: scale(0.7);
 }
 
+.con .soul {
+    max-width: 680px;
+    position: relative;
+    width: calc(100% - 60px);
+    min-width: 320px;
+    margin: 0 auto;
+}
+
 .foot {
     position: absolute;
     bottom: 10px;
