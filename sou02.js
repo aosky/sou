@@ -18,7 +18,7 @@ $(document).ready(function() {
     function sub() {
         var nm = $(".wd").attr('name');
         if (nm == "q") {
-            $("form").attr('action', 'https://www.google.com/search?hl=zh');
+            $("form").attr('action', 'https://js.mfss.cf/-----https://www.google.com/search?hl=zh');
             $("form").submit();
         } else {
             $("form").attr('action', 'https://www.baidu.com/s?ie=utf-8');
